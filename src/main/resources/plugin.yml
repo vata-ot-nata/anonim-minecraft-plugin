@@ -1,0 +1,4 @@
+name: Noname
+version: '${project.version}'
+main: anonymous.noname.Noname
+api-version: 1.20
